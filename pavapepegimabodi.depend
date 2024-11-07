@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730918576 source:c:\users\kapibara\desktop\c++\pavapepegimabodi\main.cpp
+	<iostream>
+	<string>
+
+1730921009 source:c:\users\kapibara\desktop\c++\!python++\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
